@@ -1,7 +1,7 @@
 {
   "name": "mongoose-dbref",
   "description": "Plugin support for DBRef in Mongoose",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Stuart Hudson",
     "email": "goulash1971@yahoo.com"
@@ -19,6 +19,9 @@
       "name": "Stuart Hudson",
       "email": "goulash1971@yahoo.com",
       "url": "http://goulash1971.com/"
+    },{
+      "name": "Daniel Tiecher",
+      "email": "datiecher@gmail.com"
     }
   ],
   "dependencies": {

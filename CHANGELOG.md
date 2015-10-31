@@ -1,7 +1,10 @@
+**v0.2.1** (2015-10-31):
+  - Added fallback for resolving DBRefs on new Mongo versions
+
 **v0.2.0** (2015-06-19):
   - Removed usage of $db when saving DBRef to the database
 
-  **v0.1.0** (2015-06-19):
+**v0.1.0** (2015-06-19):
   - Refactored reference of DBRef from the native Mongo driver
   - Bumped node requirement to 0.12.x
 
